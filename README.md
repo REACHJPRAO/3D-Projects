@@ -1,2 +1,2 @@
 # 3D-Projects
-This repository is for the files i create for 3D printing
+This repository is for uploading the files i created for 3D printing
